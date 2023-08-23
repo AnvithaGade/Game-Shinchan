@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.game-container {
+    position: relative;
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+    border: 2px solid rgb(53, 88, 134);
+}
+
+body {
+    background-image: url("https://wallpapercave.com/wp/wp1837243.jpg");
+}
+
+.mole {
+    position: absolute;
+    width: 75px;
+    height: 75px;
+    background-size: cover;
+    background-image: url("https://media.tenor.com/ZgIRCUMksogAAAAM/sing-crayon-shin-chan.gif");
+    cursor: pointer;
+}
